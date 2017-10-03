@@ -1,0 +1,3 @@
+/Users/Sonam/CLionProjects/Hw1_2ndTry/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Sonam/CLionProjects/Hw1_2ndTry/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Sonam/CLionProjects/Hw1_2ndTry/cmake-build-debug/CMakeFiles/Hw1_2ndTry.dir
